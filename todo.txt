@@ -1,0 +1,4 @@
+1. Skriv traffic light fra C++ til Rust
+2. Tjek assembler og sammenlign
+3. Tjek for evt forfininger
+4. Gør overvejelser om programmeringssprogenes forskelle og betydninger

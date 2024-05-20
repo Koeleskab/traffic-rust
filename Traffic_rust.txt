@@ -1,0 +1,277 @@
+00000080 t .L__do_copy_data_loop
+00000084 t .L__do_copy_data_start
+00000000 N .Ldebug_abbrev0
+00000000 N .Ldebug_line0
+0000003c N .Lname10
+00000043 N .Lname11
+00000049 N .Lname12
+0000004f N .Lname13
+00000054 N .Lname14
+00000059 N .Lname15
+0000005e N .Lname16
+00000063 N .Lname17
+00000068 N .Lname18
+0000006f N .Lname19
+00000075 N .Lname20
+0000007c N .Lname21
+00000083 N .Lname22
+0000008a N .Lname23
+00000090 N .Lname24
+00000096 N .Lname25
+0000009c N .Lname26
+000000a1 N .Lname27
+000000a7 N .Lname28
+000000ae N .Lname29
+000000b4 N .Lname30
+000000bb N .Lname31
+000000c2 N .Lname32
+000000c8 N .Lname33
+000000ce N .Lname34
+000000d4 N .Lname35
+000000d9 N .Lname36
+000000df N .Lname37
+000000e5 N .Lname38
+000000e9 N .Lname39
+000000f0 N .Lname40
+000000f7 N .Lname41
+000000fd N .Lname42
+00000102 N .Lname43
+00000108 N .Lname44
+0000010e N .Lname45
+00000113 N .Lname46
+00000118 N .Lname47
+0000011e N .Lname48
+00000123 N .Lname49
+00000128 N .Lname50
+0000012e N .Lname51
+00000133 N .Lname52
+00000138 N .Lname53
+0000013e N .Lname54
+00000144 N .Lname55
+0000014a N .Lname56
+00000151 N .Lname57
+00000158 N .Lname58
+0000015f N .Lname59
+00000020 N .Lname6
+00000165 N .Lname60
+0000016b N .Lname61
+00000171 N .Lname62
+00000177 N .Lname63
+0000017c N .Lname64
+00000182 N .Lname65
+00000189 N .Lname66
+00000190 N .Lname67
+00000197 N .Lname68
+0000019d N .Lname69
+00000029 N .Lname7
+000001a2 N .Lname70
+000001a7 N .Lname71
+000001ac N .Lname72
+000001b3 N .Lname73
+000001b7 N .Lname74
+000001be N .Lname75
+000001c4 N .Lname76
+000001c9 N .Lname77
+000001cc N .Lname78
+000001d3 N .Lname79
+0000002e N .Lname8
+000001d9 N .Lname80
+000001df N .Lname81
+000001e4 N .Lname82
+000001eb N .Lname83
+000001f2 N .Lname84
+000001f9 N .Lname85
+000001fe N .Lname86
+00000203 N .Lname87
+00000035 N .Lname9
+00000c9e t .Loc.0
+00000c18 t .Loc.0
+00000c76 t .Loc.0
+00000074 t .Loc.0
+00000c60 t .Loc.0
+0000008a t .Loc.0
+00000c38 t .Loc.0
+00000076 t .Loc.1
+00000c3a t .Loc.1
+00000c1a t .Loc.1
+00000c64 t .Loc.1
+00000ca0 t .Loc.1
+00000c78 t .Loc.1
+0000008c t .Loc.1
+00000c8a t .Loc.10
+00000088 t .Loc.10
+00000c2e t .Loc.10
+00000c4c t .Loc.10
+00000c30 t .Loc.11
+00000c4e t .Loc.11
+00000c8c t .Loc.11
+00000c32 t .Loc.12
+00000c8e t .Loc.12
+00000c50 t .Loc.12
+00000c52 t .Loc.13
+00000c34 t .Loc.13
+00000c90 t .Loc.13
+00000c92 t .Loc.14
+00000c36 t .Loc.14
+00000c54 t .Loc.14
+00000c56 t .Loc.15
+00000c58 t .Loc.16
+00000c5a t .Loc.17
+00000c5c t .Loc.18
+00000c5e t .Loc.19
+00000078 t .Loc.2
+00000c66 t .Loc.2
+00000c7a t .Loc.2
+0000008e t .Loc.2
+00000c1c t .Loc.2
+00000c3c t .Loc.2
+00000090 t .Loc.3
+00000c7c t .Loc.3
+00000c68 t .Loc.3
+0000007a t .Loc.3
+00000c1e t .Loc.3
+00000c3e t .Loc.3
+00000c22 t .Loc.4
+0000007c t .Loc.4
+00000c6a t .Loc.4
+00000c7e t .Loc.4
+00000c40 t .Loc.4
+00000092 t .Loc.4
+00000094 t .Loc.5
+0000007e t .Loc.5
+00000c24 t .Loc.5
+00000c80 t .Loc.5
+00000c6c t .Loc.5
+00000c42 t .Loc.5
+00000c26 t .Loc.6
+00000080 t .Loc.6
+00000096 t .Loc.6
+00000c44 t .Loc.6
+00000c6e t .Loc.6
+00000c82 t .Loc.6
+00000c46 t .Loc.7
+00000c84 t .Loc.7
+00000c28 t .Loc.7
+00000c70 t .Loc.7
+00000082 t .Loc.7
+00000098 t .Loc.7
+00000c72 t .Loc.8
+00000c2a t .Loc.8
+00000084 t .Loc.8
+00000c48 t .Loc.8
+00000c86 t .Loc.8
+00000c4a t .Loc.9
+00000c2c t .Loc.9
+00000c74 t .Loc.9
+00000c88 t .Loc.9
+00000086 t .Loc.9
+00000000 N .Lproducer
+00000017 N .Luint16_t_name
+0000000f N .Luint8_t_name
+00000092 t .do_clear_bss_loop
+00000094 t .do_clear_bss_start
+0080022a 00000001 B DEVICE_PERIPHERALS
+00000ca2 t L0
+00000c38 t L0
+00000c38 t L0
+00000c18 t L0
+0000009a t L0
+0000008a t L0
+0000009a t L0
+0000008a t L0
+00000074 t L0
+0000008a t L0
+00000c60 t L0
+00000c38 t L0
+00000c60 t L0
+00000c76 t L0
+00000c60 t L0
+00000c76 t L0
+00000ca2 t L0
+00000c9e t L0
+00000c94 t L0
+00000c76 t L0
+00000c94 t L0
+000006a4 00000376 t _ZN12traffic_rust20__avr_device_rt_main11progression17h9b1ef064ca740efcE
+000000b0 000005f4 t _ZN12traffic_rust20__avr_device_rt_main17hae240c3c70eaec0cE
+0080022b 00000004 b _ZN12traffic_rust6millis14MILLIS_COUNTER17h015acc0aa77e1063E.0
+00000c10 00000008 t _ZN4core9panicking5panic17hf0b0cc69bcd1ad18E
+00000c08 00000008 t _ZN4core9panicking9panic_fmt17h921a6e603c55d3adE
+00000ab8 00000150 t _ZN4ufmt5impls3ixx45_$LT$impl$u20$ufmt..uDebug$u20$for$u20$i8$GT$3fmt17h4e3b3edb1f263ae2E
+0000ffa0 A __DATA_REGION_LENGTH__
+00010000 A __EEPROM_REGION_LENGTH__
+00000003 A __FUSE_REGION_LENGTH__
+00000400 A __LOCK_REGION_LENGTH__
+00000400 A __SIGNATURE_REGION_LENGTH__
+00020000 A __TEXT_REGION_LENGTH__
+00000400 A __USER_SIGNATURE_REGION_LENGTH__
+000000a2 T __bad_interrupt
+0080022f B __bss_end
+0080022a B __bss_start
+00000068 T __ctors_end
+00000068 T __ctors_start
+0080022a R __data_end
+00000dcc A __data_load_end
+00000ca2 A __data_load_start
+00800100 R __data_start
+0000008a 00000010 T __do_clear_bss
+00000074 00000016 T __do_copy_data
+00000068 T __dtors_end
+00000068 T __dtors_start
+00810000 N __eeprom_end
+00000000 W __heap_end
+00000068 W __init
+00000c18 00000020 T __mulsi3
+00000c60 00000016 T __muluhisi3
+000008ff W __stack
+00000ca0 t __stop_program
+00000068 T __trampolines_end
+00000068 T __trampolines_start
+00000c38 00000028 T __udivmodhi4
+00000c4e t __udivmodhi4_ep
+00000c40 t __udivmodhi4_loop
+00000c76 0000001e T __umulhisi3
+000000a2 W __vector_1
+000000a2 W __vector_10
+000000a2 W __vector_11
+000000a2 W __vector_12
+000000a2 W __vector_13
+00000a1a 0000009e T __vector_14
+000000a2 W __vector_15
+000000a2 W __vector_16
+000000a2 W __vector_17
+000000a2 W __vector_18
+000000a2 W __vector_19
+000000a2 W __vector_2
+000000a2 W __vector_20
+000000a2 W __vector_21
+000000a2 W __vector_22
+000000a2 W __vector_23
+000000a2 W __vector_24
+000000a2 W __vector_25
+000000a2 W __vector_3
+000000a2 W __vector_4
+000000a2 W __vector_5
+000000a2 W __vector_6
+000000a2 W __vector_7
+000000a2 W __vector_8
+000000a2 W __vector_9
+00000000 W __vector_default
+00000000 T __vectors
+0080022a R _edata
+0080022f N _end
+00000ca2 T _etext
+00000c9e T _exit
+00000c94 0000000a T abort
+008001ac 00000015 r anon.8917c0574be346b11ae4cf3eef094b2b.6
+008001c1 0000000f r anon.8917c0574be346b11ae4cf3eef094b2b.7
+008001d0 00000003 r anon.8917c0574be346b11ae4cf3eef094b2b.8
+00800201 00000028 r anon.c091de9335bc0e0f08951884d6b1bac5.2
+00800100 0000002b r anon.fad58de7366495db4650cfefac2fcd61.0
+00000c9e W exit
+000000a8 00000008 T main
+000000a6 00000002 t rust_begin_unwind
+00800130 00000021 r str.0
+00800190 0000001c r str.0.620
+008001e0 00000021 r str.0.648
+00800160 00000021 r str.1
